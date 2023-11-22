@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/2a/24/4c/2a244c7a528690654797fa4a09768274.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color: bisque;
+    height: 65px;
+}
+
+.awal {
+    padding: 5px;
+}
+
+header li {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1000px;
+}
+
+.kartu1 {
+    background-color: #ffbb83;
+    height: 285px;
+    width: 500px;
+    display: flex;
+    border-radius: 12px;
+}
+
+.kartu2 {
+    background-color: #ffa683;
+    height: 285px;
+    width: 500px;
+    display: flex;
+    border-radius: 13px;
+}
+
+.kartu3 {
+    background-color: #f26262;
+    height: 285px;
+    width: 500px;
+    display: flex;
+    border-radius: 13px;
+}
+
+.kartu img {
+    height: 200px;
+    width: 225px;
+    padding: 20px;
+}
+
+.kartu {
+    display: flex;
+    gap: 24px;
+    margin-top: 25px;
+}
+
+.ehem button{
+    background-color: black;
+    color: bisque;
+    border-radius: 15px;
+    margin-top: 250px;
+    margin-left: 150px;
+    position: absolute;
+}
+
+

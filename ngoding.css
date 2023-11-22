@@ -1,0 +1,36 @@
+* {
+}
+.item1 {
+    background-color: red;
+    width: 90px;
+    height: 170px;
+    float: right;
+    margin-right: 40%;
+}   
+.item1 p{
+    padding: 40%;
+    text-align: center;
+}
+.item2 {
+    height: 140px;
+    width: 90px;
+    background-color: aquamarine;
+    margin-left: 170px;
+}
+.item3 {
+    height:0px;
+	width:0px;
+	border-bottom:solid 120px blue;
+	border-left:solid 80px transparent;
+	border-right:solid 80px transparent;
+    position: relative;
+    top: -150px;
+}
+.item2 p{
+    padding: 40%;
+    text-align: center;
+}
+.item3 p{
+    padding: 40%;
+    text-align: center;
+}

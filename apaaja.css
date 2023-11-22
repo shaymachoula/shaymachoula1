@@ -1,0 +1,32 @@
+body{
+    background-image: url(pexels-photo-262713.webp);
+    background-size: cover;
+}
+
+body h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Kenia', sans-serif;;
+}
+footer{
+    text-align: center;
+}
+ footer button{
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    color: beige;
+    padding: 15px 60px;
+
+ }
+ footer a{
+    text-decoration: none;
+    list-style-type: none;
+ }
+ button:hover{
+    font-size: 20px;
+    font-weight: bold;
+    color: #181e21;
+    border-radius: 10px;
+    text-align: center;
+  }

@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+.header-left a{
+    text-decoration: none;
+    padding-top: 10px;
+    float: left;
+}
+header {
+    background-color: black;
+    color: white;
+}
+.header-left h1 {
+    padding-top: 20px;
+    float: left;
+}
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.btn-wrapper {
+
+}

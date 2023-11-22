@@ -1,0 +1,114 @@
+/* {
+    padding: 0;
+    margin: 0;
+}*/
+
+.kotak1 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+.kotak2 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+.kotak3 {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+
+.box-kotak1 {
+    display: flex;
+}
+
+.kotak4 {
+    background-color: brown;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    border-radius: 12px;
+}
+
+.kotak5 {
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    border-radius: 12px;
+    margin: 0 10px 10px 10px;
+}
+
+.kotak6 {
+    background-color: aquamarine;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    border-radius: 12px;
+}
+
+.box-kotak2 {
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    border-radius: 12px;
+    padding: 10px;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.box-kotak2 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.beli {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 10px ;
+}
+.harga {
+    padding-bottom: 5px;
+}
+/*buat lagi*/
+
+.kartu1 {
+    background-color: #ffbb83;
+    height: 250px;
+    width: 450px;
+    display: flex;
+    border-radius: 12px;
+}
+
+.kartu2 {
+    background-color: #ffa683;
+    height: 250px;
+    width: 450px;
+    display: flex;
+    border-radius: 13px;
+}
+
+.kartu img {
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.kartu {
+    display: flex;
+    gap: 24px;
+}
+
+.pengertian button{
+    background-color: black;
+    color: bisque;
+    border-radius: 15px;
+    padding-right: 5px;
+}
